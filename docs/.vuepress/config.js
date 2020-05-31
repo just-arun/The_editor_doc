@@ -32,5 +32,6 @@ module.exports = {
         editLinkText: "Help us improve this page!",
         smoothScroll: true,
         lastUpdated: "Last Updated",
-    }
+    },
+    base: "/the-editor-doc/",
 }
